@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run medicine_recommendation_app.py
