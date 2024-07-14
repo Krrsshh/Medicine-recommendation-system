@@ -18,3 +18,9 @@ I created vectors for each tag using featureextraction from sklearn library. Cou
 I further include medicine_recommnedation_app.py file where we create a demo website usng streamlit. We pickle the data from our main code to deploy this website.
 
 If you got a medicine with you and are interested to explore your options with similar medicines before using it, here you go!!!  This is a perfect tool built with a database of 7000 medicines.
+
+**Website Demo**
+
+A picture of basic website we create usinf streamlit. We can see 5 recommendations of the medicine selected from the dropdown menu.
+<img width="1242" alt="Screenshot 2024-07-14 at 2 23 27 PM" src="https://github.com/user-attachments/assets/65b20fd8-8212-4aac-b4e0-1f0657e7e04c">
+
